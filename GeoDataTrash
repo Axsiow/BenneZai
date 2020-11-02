@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {"category": "Verre"},
       "geometry": {
         "type": "Point",
         "coordinates": [
