@@ -1,0 +1,233 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7406128,
+          45.1774765
+        ]
+      },
+      "properties": {
+        "FIELD3": "Colonne à verres",
+        "FIELD4": "container",
+        "FIELD5": "",
+        "FIELD6": "",
+        "FIELD7": "",
+        "FIELD8": "",
+        "FIELD9": "",
+        "FIELD10": "",
+        "FIELD11": "",
+        "FIELD12": "",
+        "FIELD13": "yes",
+        "FIELD14": "",
+        "FIELD15": "",
+        "FIELD16": "",
+        "FIELD17": "",
+        "FIELD18": "",
+        "FIELD19": "",
+        "FIELD20": 4426690761,
+        "FIELD21": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6498964,
+          45.22981
+        ]
+      },
+      "properties": {
+        "FIELD3": "Colonne à verre",
+        "FIELD4": "",
+        "FIELD5": "",
+        "FIELD6": "",
+        "FIELD7": "",
+        "FIELD8": "",
+        "FIELD9": "",
+        "FIELD10": "",
+        "FIELD11": "",
+        "FIELD12": "",
+        "FIELD13": "yes",
+        "FIELD14": "",
+        "FIELD15": "",
+        "FIELD16": "",
+        "FIELD17": "",
+        "FIELD18": "",
+        "FIELD19": "",
+        "FIELD20": 4385062488,
+        "FIELD21": "{\"addr:postcode\": \"38360\"; \"addr:city\": \"Sassenage\"; \"addr:street\": \"Lotissement Les Moironds\"}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7382716,
+          45.1830634
+        ]
+      },
+      "properties": {
+        "FIELD3": "Colonne à verres",
+        "FIELD4": "container",
+        "FIELD5": "",
+        "FIELD6": "",
+        "FIELD7": "",
+        "FIELD8": "",
+        "FIELD9": "",
+        "FIELD10": "",
+        "FIELD11": "",
+        "FIELD12": "",
+        "FIELD13": "yes",
+        "FIELD14": "",
+        "FIELD15": "",
+        "FIELD16": "",
+        "FIELD17": "",
+        "FIELD18": "",
+        "FIELD19": "",
+        "FIELD20": 4545349088,
+        "FIELD21": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.63745,
+          45.2363918
+        ]
+      },
+      "properties": {
+        "FIELD3": "Colonne à verre",
+        "FIELD4": "",
+        "FIELD5": "",
+        "FIELD6": "",
+        "FIELD7": "",
+        "FIELD8": "",
+        "FIELD9": "",
+        "FIELD10": "",
+        "FIELD11": "",
+        "FIELD12": "",
+        "FIELD13": "",
+        "FIELD14": "",
+        "FIELD15": "",
+        "FIELD16": "",
+        "FIELD17": "",
+        "FIELD18": "",
+        "FIELD19": "",
+        "FIELD20": 4385036098,
+        "FIELD21": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7379343,
+          45.1662516
+        ]
+      },
+      "properties": {
+        "FIELD3": "verre",
+        "FIELD4": "container",
+        "FIELD5": "",
+        "FIELD6": "",
+        "FIELD7": "",
+        "FIELD8": "",
+        "FIELD9": "",
+        "FIELD10": "",
+        "FIELD11": "",
+        "FIELD12": "",
+        "FIELD13": "",
+        "FIELD14": "",
+        "FIELD15": "",
+        "FIELD16": "",
+        "FIELD17": "",
+        "FIELD18": "",
+        "FIELD19": "",
+        "FIELD20": 4775786295,
+        "FIELD21": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7640024,
+          45.1576302
+        ]
+      },
+      "properties": {
+        "FIELD3": "Poubelle à verre",
+        "FIELD4": "container",
+        "FIELD5": "",
+        "FIELD6": "",
+        "FIELD7": "Grenoble Alpes Métropole",
+        "FIELD8": "",
+        "FIELD9": "",
+        "FIELD10": "",
+        "FIELD11": "",
+        "FIELD12": "",
+        "FIELD13": "yes",
+        "FIELD14": "",
+        "FIELD15": "",
+        "FIELD16": "",
+        "FIELD17": "",
+        "FIELD18": "",
+        "FIELD19": "",
+        "FIELD20": 4354721646,
+        "FIELD21": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.741638,
+          45.1770833
+        ]
+      },
+      "properties": {
+        "FIELD3": "Colonne à verres",
+        "FIELD4": "container",
+        "FIELD5": "",
+        "FIELD6": "",
+        "FIELD7": "Colonne à verres",
+        "FIELD8": "no",
+        "FIELD9": "no",
+        "FIELD10": "",
+        "FIELD11": "no",
+        "FIELD12": "no",
+        "FIELD13": "yes",
+        "FIELD14": "",
+        "FIELD15": "",
+        "FIELD16": "",
+        "FIELD17": "",
+        "FIELD18": "no",
+        "FIELD19": "",
+        "FIELD20": 3492029536,
+        "FIELD21": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.72722166776657,
+          45.1777734356713
+        ]
+      }
+    }
+  ]
+}
