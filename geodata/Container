@@ -1,0 +1,5605 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7340396,45.2014419 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"yes",
+    "FIELD12":"yes",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"yes",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2673359385,
+    "FIELD21":"{\"mapillary\": \"9USj-0i6tPckarpotnODgA\"; \"recycling:plastic_packaging\": \"yes\"; \"recycling:beverage_cartons\": \"yes\"; \"recycling:waste\": \"yes\"; \"survey:date\": \"2018-08-18\"; \"recycling:cardboard\": \"yes\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7112409,45.1889829 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2571998382,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7284449,45.1138527 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"yes",
+    "FIELD10":"",
+    "FIELD11":"yes",
+    "FIELD12":"yes",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"yes",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2594139069,
+    "FIELD21":"{\"recycling:cardboard\": \"yes\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7233386,45.1879574 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"overground",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"yes",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":5897312360,
+    "FIELD21":"{\"survey:date\": \"2019-09-21\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6853083,45.1971853 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":5934227586,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7084684,45.1807737 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"overground",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":775767772,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.746227,45.1668869 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":869338594,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6730801,45.1711761 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"yes",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2356629868,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7273464,45.1756361 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":6007559289,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6970078,45.1756692 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":6027441652,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7804812,45.178838 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":676065831,
+    "FIELD21":"{\"source\": \"cadastre-dgi-fr source : Direction G\\u00e9n\\u00e9rale des Imp\\u00f4ts - Cadastre ; mise \\u00e0 jour : 2010\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6971771,45.1918724 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":1057260400,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7566972,45.1790347 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":1379858095,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7080743,45.1798647 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":857410847,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7856761,45.1850579 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":676050400,
+    "FIELD21":"{\"source\": \"cadastre-dgi-fr source : Direction G\\u00e9n\\u00e9rale des Imp\\u00f4ts - Cadastre ; mise \\u00e0 jour : 2010\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7067606,45.182916 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2495586524,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7121171,45.1736291 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":6600463993,
+    "FIELD21":"{\"source\": \"survey\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7214469,45.1906308 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":1081962269,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6765918,45.1941119 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":1154476267,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7100285,45.149941 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"yes",
+    "FIELD10":"",
+    "FIELD11":"yes",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"yes",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":1177500916,
+    "FIELD21":"{\"recycling:aluminium\": \"yes\"; \"recycling:cardboard\": \"yes\"; \"recycling:scrap_metal\": \"yes\"; \"recycling:waste\": \"yes\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7546467,45.1468573 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"yes",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":1413302264,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7422246,45.1699378 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"underground",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":5129287100,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7610193,45.1768979 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":3447518277,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7579313,45.1744669 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":3632667868,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7294362,45.1904735 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"overground",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2061162503,
+    "FIELD21":"{\"survey:date\": \"2018-10-20\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.714272,45.1838959 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2063222638,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7158659,45.1842086 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2063222640,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6969975,45.1828464 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2164619653,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7271461,45.17767 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":4618506192,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6825525,45.1951335 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"underground",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":4475395457,
+    "FIELD21":"{\"addr:postcode\": \"38600\"; \"addr:city\": \"Fontaine\"; \"addr:street\": \"Rue des Alpes\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6667942,45.1708634 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2928093502,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7209836,45.1803641 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":1662713411,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7315021,45.1821485 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"overground",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":560058042,
+    "FIELD21":"{\"source\": \"v2 ; cadastre-dgi-fr source : Direction G\\u00e9n\\u00e9rale des Imp\\u00f4ts - Cadastre ; mise \\u00e0 jour : 2009\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7356026,45.1825138 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2294321358,
+    "FIELD21":"{\"survey:date\": \"2018-11-12\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7422542,45.1475383 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"yes",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":1972334143,
+    "FIELD21":"{\"source\": \"cadastre-dgi-fr source : Direction G\\u00e9n\\u00e9rale des Imp\\u00f4ts - Cadastre ; mise \\u00e0 jour :2012+Photo GPS\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7191788,45.1789127 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2493690838,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7735081,45.2115741 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":36777152,
+    "FIELD21":"{\"source\": \"cadastre-dgi-fr source : Direction G\\u00e9n\\u00e9rale des Imp\\u00f4ts - Cadastre ; mise \\u00e0 jour : 2007\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7210792,45.1845761 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2061162502,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7545037,45.1469881 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2098676325,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7057734,45.2024604 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"yes",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":6531364005,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7454296,45.1800847 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"underground",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":4455746607,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7585102,45.1861933 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":4526261499,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7216711,45.1809426 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":4528015395,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7091299,45.1930603 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":4575830397,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6938149,45.1987323 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"yes",
+    "FIELD10":"",
+    "FIELD11":"yes",
+    "FIELD12":"yes",
+    "FIELD13":"",
+    "FIELD14":"yes",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":5370233757,
+    "FIELD21":"{\"recycling:aluminium\": \"yes\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6898585,45.2378216 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"underground",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":6450756319,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.8076894,45.2144125 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":550267623,
+    "FIELD21":"{\"source\": \"cadastre-dgi-fr source : Direction G\\u00e9n\\u00e9rale des Imp\\u00f4ts - Cadastre. Mise \\u00e0 jour : 2009\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.8094924,45.1195851 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"yes",
+    "FIELD12":"yes",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":3450883513,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7174682,45.1436968 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"yes",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2012494215,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6959904,45.1813713 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"no",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"no",
+    "FIELD19":"",
+    "FIELD20":2164619626,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7101342,45.1873561 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2178484626,
+    "FIELD21":"{\"source\": \"cadastre-dgi-fr source : Direction G\\u00e9n\\u00e9rale des Imp\\u00f4ts - Cadastre. Mise \\u00e0 jour : 2013\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7109811,45.1932325 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":3725207810,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7232343,45.1720954 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"no",
+    "FIELD10":"",
+    "FIELD11":"no",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":5781842973,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7223544,45.1854668 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"underground",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":5796768662,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7627449,45.2105651 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":5908122516,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6750744,45.2354216 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":3773961147,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.741406,45.1750585 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"no",
+    "FIELD9":"no",
+    "FIELD10":"",
+    "FIELD11":"no",
+    "FIELD12":"no",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"no",
+    "FIELD19":"",
+    "FIELD20":3832488164,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7458295,45.158299 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"overground",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":1409414692,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.770415,45.1341826 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"yes",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"yes",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":1413370821,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6965181,45.1968285 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":5882223195,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7388849,45.1606338 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":1747384880,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7396281,45.142733 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"yes",
+    "FIELD10":"",
+    "FIELD11":"yes",
+    "FIELD12":"yes",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2266025325,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7696734,45.1797984 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":3449418480,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7512248,45.2032807 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":4248940029,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7544791,45.2041132 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":4271538324,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7127181,45.148135 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":1181056329,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7206169,45.1415851 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"yes",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"yes",
+    "FIELD19":"",
+    "FIELD20":1201815726,
+    "FIELD21":"{\"source\": \"Photos g\\u00e9olocalis\\u00e9es\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7704066,45.1855478 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":1324406918,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7571642,45.1802218 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":1379857854,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7132504,45.1352623 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":1406041633,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7602366,45.2037405 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"yes",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":938825163,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.722873,45.1432908 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"yes",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":1201815764,
+    "FIELD21":"{\"source\": \"Photos g\\u00e9olocalis\\u00e9es\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7151497,45.1359799 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":1448104684,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.727626,45.1910975 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":4600045493,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.713265,45.177521 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":4583334399,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.745432,45.1800669 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"underground",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":4455746609,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.719885,45.1696663 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"underground",
+    "FIELD7":"",
+    "FIELD8":"no",
+    "FIELD9":"no",
+    "FIELD10":"",
+    "FIELD11":"no",
+    "FIELD12":"no",
+    "FIELD13":"yes",
+    "FIELD14":"no",
+    "FIELD15":"no",
+    "FIELD16":"no",
+    "FIELD17":"no",
+    "FIELD18":"no",
+    "FIELD19":"",
+    "FIELD20":1842638752,
+    "FIELD21":"{\"recycling:small_appliances\": \"no\"; \"recycling:plastic_packaging\": \"no\"; \"recycling:books\": \"no\"; \"recycling:paper_packaging\": \"no\"; \"recycling:green_waste\": \"no\"; \"recycling:batteries\": \"no\"; \"recycling:wood\": \"no\"; \"recycling:waste\": \"no\"; \"recycling:scrap_metal\": \"no\"; \"recycling:electrical_appliances\": \"no\"; \"recycling:cardboard\": \"no\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7372706,45.1768412 ]
+    },
+    "properties": {
+    "FIELD3":"Compost participatif Bajatière",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":4510473021,
+    "FIELD21":"{\"recycling:compost\": \"yes\"; \"contact:website\": \"https://www.facebook.com/compostbajatiere/\"; \"contact:email\": \"compost.bajatiere@gmail.com\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7321345,45.1680046 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"underground",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":4850394803,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7261549,45.1793082 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":4689030091,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7143303,45.1991378 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":960452306,
+    "FIELD21":"{\"source\": \"survey\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.699498,45.1942585 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":1045775377,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7489857,45.161962 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"overground",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":1140892260,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7124184,45.1484097 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"yes",
+    "FIELD10":"",
+    "FIELD11":"yes",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"yes",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":1181056322,
+    "FIELD21":"{\"recycling:aluminium\": \"yes\"; \"recycling:cardboard\": \"yes\"; \"recycling:scrap_metal\": \"yes\"; \"recycling:waste\": \"yes\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7289324,45.1937016 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2435592259,
+    "FIELD21":"{\"source\": \"survey\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7373007,45.1973455 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2439068436,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.738,45.196418 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2795781300,
+    "FIELD21":"{\"source\": \"cadastre-dgi-fr source : Direction G\\u00e9n\\u00e9rale des Imp\\u00f4ts - Cadastre ; mise \\u00e0 jour :2012\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7501654,45.1997023 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":571305451,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7188085,45.1869406 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2508054209,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7103196,45.1908818 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"underground",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2571998452,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7169931,45.1860094 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2268172181,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7100246,45.1773169 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2525602760,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7203642,45.1855208 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"underground",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2052453055,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7391654,45.1989599 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":4693377389,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7108426,45.1731025 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":6600463992,
+    "FIELD21":"{\"source\": \"survey\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7431717,45.1792824 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":1217528745,
+    "FIELD21":"{\"source\": \"cadastre-dgi-fr source : Direction G\\u00e9n\\u00e9rale des Imp\\u00f4ts - Cadastre ; mise \\u00e0 jour : 2011\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7288446,45.157146 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2164565015,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7389155,45.2100574 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2701853295,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7371458,45.1619158 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"24/7",
+    "FIELD6":"underground",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"yes",
+    "FIELD10":"yes",
+    "FIELD11":"yes",
+    "FIELD12":"yes",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"yes",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":1747384712,
+    "FIELD21":"{\"recycling:plastic_packaging\": \"yes\"; \"recycling:cardboard\": \"no\"; \"recycling:waste\": \"yes\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7490233,45.1651561 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2687163467,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6803586,45.1694831 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":6786004087,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.8293447,45.144832 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":6848719183,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7249992,45.1818898 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":4642080994,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.741607,45.1385697 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":5864635366,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7054064,45.1880962 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"underground",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":5876258291,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6925665,45.1949576 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":5907265594,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7109579,45.1635866 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":6109457487,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.8248219,45.1329421 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"yes",
+    "FIELD11":"yes",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":6609253703,
+    "FIELD21":"{\"recycling:cardboard\": \"yes\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6798539,45.1512462 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"yes",
+    "FIELD10":"",
+    "FIELD11":"yes",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"yes",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":5844646226,
+    "FIELD21":"{\"wheelchair\": \"yes\"; \"recycling:plastic_packaging\": \"yes\"; \"recycling:cardboard\": \"yes\"; \"recycling:waste\": \"yes\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7514228,45.2009954 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"overground",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":5704547687,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.767774,45.1718311 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"yes",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":6872269837,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7928497,45.1422426 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"yes",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"yes",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2484298256,
+    "FIELD21":"{\"recycling:batteries\": \"no\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7771614,45.1392139 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"yes",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"yes",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2484348151,
+    "FIELD21":"{\"underground\": \"yes\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7244546,45.1768252 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2493690842,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7054401,45.1816047 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2495586462,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7095216,45.1885603 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"overground",
+    "FIELD7":"",
+    "FIELD8":"no",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"no",
+    "FIELD12":"no",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"no",
+    "FIELD19":"",
+    "FIELD20":3681911104,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7055674,45.1139554 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"overground",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"yes",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":1410070663,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7211285,45.1395106 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":1426030847,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7221606,45.1530288 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":1303426996,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7574753,45.1555596 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"yes",
+    "FIELD11":"",
+    "FIELD12":"yes",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":6759543787,
+    "FIELD21":"{\"wheelchair\": \"no\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7158437,45.1371332 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"yes",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":6769581206,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.82536,45.1363312 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"yes",
+    "FIELD11":"yes",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":6611481674,
+    "FIELD21":"{\"wheelchair\": \"no\"; \"recycling:plastic_packaging\": \"yes\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6802323,45.2317188 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"underground",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":3801272724,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7361445,45.1669103 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":869338607,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7489419,45.2088404 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":3840933931,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7202871,45.1754897 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2493652427,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6993642,45.1342326 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"yes",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":6781158271,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7624806,45.1844189 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":5613281265,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7514185,45.1637199 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"Grenoble Alpes Métropole",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"yes",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":6872165560,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.8116893,45.2202054 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":550267817,
+    "FIELD21":"{\"source\": \"cadastre-dgi-fr source : Direction G\\u00e9n\\u00e9rale des Imp\\u00f4ts - Cadastre. Mise \\u00e0 jour : 2009\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7055875,45.1520694 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":1088818211,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7214742,45.1488381 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":1409876429,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6891255,45.1804359 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"yes",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2210539624,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7055622,45.1803695 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"underground",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":4603932090,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7181979,45.185143 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":4504569011,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7196696,45.1903091 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":4526610491,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7191414,45.188821 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":4526683291,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7618071,45.207616 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":4851788594,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7190738,45.1447974 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"yes",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":6765832688,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7360777,45.1786319 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":4426785442,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6875524,45.1907758 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"yes",
+    "FIELD10":"",
+    "FIELD11":"yes",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":6109458492,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6979051,45.1782526 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"yes",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2158008021,
+    "FIELD21":"{\"mapillary\": \"szJjX4TAPLmbFKUBR1Efqw\"; \"survey:date\": \"2017-05-30\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7589696,45.1788114 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":5628894115,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7055038,45.1794089 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"underground",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":5122721982,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7454308,45.1800762 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"underground",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":4455746608,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6993118,45.1910929 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2706073690,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7135384,45.1434672 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"yes",
+    "FIELD10":"",
+    "FIELD11":"yes",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"yes",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":1947255633,
+    "FIELD21":"{\"recycling:aluminium\": \"yes\"; \"recycling:cardboard\": \"yes\"; \"recycling:scrap_metal\": \"yes\"; \"recycling:waste\": \"yes\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6430796,45.1742303 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":512562925,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7089761,45.1817687 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"underground",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":3441071790,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6937977,45.1759635 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":6015795886,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7043046,45.1874797 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":6019846893,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7359519,45.1834916 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":5908814302,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7446772,45.1839631 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":6051166986,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6595579,45.2111932 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2379604097,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6912025,45.1900934 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":5907261203,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7599958,45.2109988 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":5908122515,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7670841,45.2052382 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":5948977093,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7101057,45.180376 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"underground",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":1930804527,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7194028,45.149261 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":4271539208,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7602179,45.1792038 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"no",
+    "FIELD9":"yes",
+    "FIELD10":"no",
+    "FIELD11":"yes",
+    "FIELD12":"yes",
+    "FIELD13":"no",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"no",
+    "FIELD19":"",
+    "FIELD20":3945400395,
+    "FIELD21":"{\"addr:street\": \"Rue Alfred Gueymard\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7656947,45.2493644 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"yes",
+    "FIELD12":"yes",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"yes",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":4069576098,
+    "FIELD21":"{\"recycling:plastic_packaging\": \"yes\"; \"recycling:cardboard\": \"yes\"; \"recycling:waste\": \"yes\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6802506,45.2317319 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"underground",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":3801272726,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6802323,45.2317445 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"underground",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":3801272727,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6785193,45.2412723 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":3808066409,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6809923,45.1256164 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"yes",
+    "FIELD12":"yes",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2282421127,
+    "FIELD21":"{\"recycling:scrap_metal\": \"yes\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7640458,45.1862643 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2327936063,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7135581,45.1954084 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":3363822480,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7936057,45.180996 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2476115960,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7104676,45.1851357 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2495586667,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7130453,45.1905526 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"underground",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":3101787654,
+    "FIELD21":"{\"source\": \"survey\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.763821,45.2064602 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"yes",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":3190246476,
+    "FIELD21":"{\"source\": \"cadastre-dgi-fr source : Direction G\\u00e9n\\u00e9rale des Imp\\u00f4ts - Cadastre ; mise \\u00e0 jour :2012\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7366071,45.1982188 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"yes",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":6812180411,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.767547,45.1620744 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"yes",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":3903711608,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.715792,45.1787845 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":4585415764,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7228695,45.1695486 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"no",
+    "FIELD9":"no",
+    "FIELD10":"yes",
+    "FIELD11":"no",
+    "FIELD12":"no",
+    "FIELD13":"yes",
+    "FIELD14":"no",
+    "FIELD15":"no",
+    "FIELD16":"no",
+    "FIELD17":"no",
+    "FIELD18":"no",
+    "FIELD19":"",
+    "FIELD20":1842638739,
+    "FIELD21":"{\"recycling:small_appliances\": \"no\"; \"recycling:plastic_packaging\": \"no\"; \"recycling:books\": \"no\"; \"recycling:paper_packaging\": \"no\"; \"recycling:green_waste\": \"no\"; \"recycling:batteries\": \"no\"; \"recycling:wood\": \"no\"; \"recycling:waste\": \"no\"; \"recycling:scrap_metal\": \"no\"; \"recycling:electrical_appliances\": \"no\"; \"recycling:cardboard\": \"no\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7185263,45.1868614 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2988456406,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.725455,45.2422372 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2997251548,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6644546,45.1592421 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2939926401,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.750257,45.1382942 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"yes",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2769737239,
+    "FIELD21":"{\"source\": \"cadastre-dgi-fr source : Direction G\\u00e9n\\u00e9rale des Imp\\u00f4ts - Cadastre ; mise \\u00e0 jour :2012\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7255373,45.145482 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":3101631666,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7661579,45.1767103 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":4475652892,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7203445,45.1915022 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"underground",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":4504569196,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7176561,45.1805793 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":4508717492,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7160769,45.1874745 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":4539131590,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7057146,45.1867371 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":4575871492,
+    "FIELD21":"{\"fire_hydrant:type\": \"pillar\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7310851,45.191767 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":4578121200,
+    "FIELD21":"{\"survey:date\": \"2018-09-22\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.8046968,45.2286767 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":642455550,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7558838,45.1816127 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":761464710,
+    "FIELD21":"{\"source\": \"cadastre-dgi-fr source : Direction G\\u00e9n\\u00e9rale des Imp\\u00f4ts - Cadastre ; mise \\u00e0 jour : 2010\"}"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7910332,45.185025 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":762815462,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7999683,45.1833355 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":762815592,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7349384,45.1726577 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":1119187495,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7110975,45.1930382 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":5874311391,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6946642,45.1856757 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":5876258386,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6949805,45.1907772 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":5882251605,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6850882,45.1624481 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"yes",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":5846843810,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7647088,45.1642192 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"yes",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2484452049,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7684664,45.1693767 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2476115951,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7513571,45.1536456 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2484433334,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7217161,45.1779696 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":2493690840,
+    "FIELD21":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7094548,45.1885612 ]
+    },
+    "properties": {
+    "FIELD3":"",
+    "FIELD4":"container",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"no",
+    "FIELD10":"",
+    "FIELD11":"no",
+    "FIELD12":"",
+    "FIELD13":"yes",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":5720887768,
+    "FIELD21":""
+    }
+  }
+]
+}
