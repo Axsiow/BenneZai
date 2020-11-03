@@ -1,5 +1,7 @@
 body {
- 	height: 50vh ;
+	min-height: 100vh;
+	padding: 0px;
+	margin: 0px;
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
@@ -10,5 +12,21 @@ body {
 	 	/* FOOTER */
 	 
 footer {
- 	text-align: center;
+	 background-color: #1d1b1c;
+	 color: white;
+	 width: 100%;
+	 min-height: 200px;
+	 padding: 0px;
+	 margin: 0px;
+	 display: flex;
+	 flex-direction: row;
+	 justify-content: space-around;
+}
+
+footer article {
+	margin-top: 25px;
+}
+
+#logofooter {
+	height: 70px;
 }
