@@ -1246,6 +1246,11 @@ input[type='checkbox'] {
 	padding-bottom: 0.5rem;
 }
 
+.col-lg-12{
+	display: flex;
+	justify-content: space-around;
+}
+
 .footer a {
 	text-decoration: none;
 }
@@ -1995,8 +2000,8 @@ a:hover.back-to-top {
 	
 	.footer .footer-col.third {
 		display: inline-block;
-		width: 14rem;
-		text-align: right;
+		width: 15rem;
+		text-align: left;
 		vertical-align: top;
 	}
 
