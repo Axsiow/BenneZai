@@ -1,0 +1,237 @@
+
+
+
+#top {
+    background-color: #95C11F;
+    height: 50px;
+    width: 100%;
+    border-radius: 10px;
+}
+
+
+
+/*#region nav*/
+#navigation li {
+    display: inline;
+}
+
+#navigation {
+    margin-top:17px;
+    margin-left:-40px;
+    list-style: none ;
+    text-align: center ;
+    float: left;
+}
+
+#navigation li {
+    display: inline ;
+    margin-right: 1px ;
+    color: #fff ;
+    background: #111111 ;
+}
+
+#navigation li a {
+    padding: 15px 50px ;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background: #111111 ;
+    color: #fff ;
+    border: 1px solid #600 ;
+    font: 1em "Trebuchet MS",Arial,sans-serif ;
+    line-height: 1em ;
+    text-align: center ;
+    text-decoration: none ;
+}
+
+#navigation li a:hover, #navigation li a:focus, #navigation li a:active {
+    background: #C5C5C5;
+    text-decoration: underline ;
+}
+/*#endregion*/
+
+
+#myHeader {
+    color:black;
+}
+
+/* Style the header */
+.header {
+    padding: 10px 16px;
+    background: #555;
+    color: #f1f1f1;
+}
+
+/* Style the navbar */
+#navbar {
+    overflow: hidden;
+    background-color: #333;
+}
+
+/* Navbar links */
+#navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+
+.cha-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+.cha-header-clip {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    pointer-events: none;
+}
+
+.cha-header-clip {
+    clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%);
+}
+
+
+/* Page content */
+.content {
+    padding: 0px;
+}
+
+/* The sticky class is added to the navbar with JS when it reaches its scroll position */
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
+.sticky + .content {
+    padding-top: 60px;
+}
+
+
+
+
+
+
+.cd-secondary-nav ul {
+    position: fixed;
+    right: 5%;
+    bottom: 20px;
+    visibility: hidden;
+    transform: scale(0);
+    transform-origin: 100% 100%;
+    transition: transform 0.3s, visibility 0s 0.3s;
+}
+.cd-secondary-nav ul.is-visible {
+    visibility: visible;
+    transform: scale(1);
+    transition: transform 0.3s, visibility 0s 0s;
+}
+
+@media only screen and (min-width: 1170px) {
+    .cd-secondary-nav ul {
+        /* reset navigation values */
+        position: static;
+        width: auto;
+        max-width: 100%;
+        visibility: visible;
+        transform: scale(1);
+    }
+}
+
+.cd-secondary-nav-trigger {
+    position: fixed;
+    bottom: 20px;
+    right: 5%;
+    width: 44px;
+    height: 44px;
+}
+@media only screen and (min-width: 1170px) {
+    .cd-secondary-nav-trigger {
+        display: none;
+    }
+}
+
+
+
+@media only screen and (min-width: 1170px) {
+    .cd-secondary-nav.is-fixed {
+        position: fixed;
+        left: 0;
+        top: 0;
+        height: 70px;
+        width: 100%;
+    }
+    .cd-secondary-nav li a {
+        padding: 58px 40px 0 40px;
+        transition: padding 0.2s;
+    }
+    .cd-secondary-nav li a span {
+        transition: opacity 0.2s;
+    }
+    .cd-secondary-nav.animate-children li a {
+        padding: 26px 30px 0 30px;
+    }
+    .cd-secondary-nav.animate-children li a span {
+        opacity: 0;
+    }
+}
+
+
+
+
+@media only screen and (min-width: 1170px) {
+    #cd-logo.is-hidden {
+        /* assign a position fixed and move outside the viewport (on the left) */
+        opacity: 0;
+        position: fixed;
+        left: -20%;
+        transition: left 0.3s, opacity 0.3s;
+    }
+    #cd-logo.is-hidden.slide-in {
+        /* slide in when the secondary navigation gets fixed */
+        left: 5%;
+        opacity: 1;
+    }
+
+    .cd-btn.is-hidden {
+        /* assign a position fixed and move outside the viewport (on the right) */
+        opacity: 0;
+        position: fixed;
+        right: -20%;
+        transition: right 0.3s, opacity 0.3s;
+    }
+    .cd-btn.is-hidden.slide-in {
+        /* slide in when the secondary nav gets fixed */
+        right: 5%;
+        opacity: 1;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
