@@ -30,3 +30,29 @@ footer article {
 #logofooter {
 	height: 70px;
 }
+
+	/* SLIDER */
+
+	.swiper-container {
+		width: 600px;
+		height: 300px;
+	}
+	
+	.swiper-container {
+		position: absolute;
+		top: 69px;
+		width: 280px;
+		left: 44px;
+		height: 73%;
+	}
+	
+	.swiper-pagination-bullet-active {
+		background: #95c11f!important;
+	}
+	
+	.phone-container{
+		position: relative;
+		width: 370px;
+		margin-left: auto;
+		margin-right: auto;
+	}
