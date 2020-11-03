@@ -1,3 +1,18 @@
+
+/* ------------------- */
+/* ----- Colors ------ */
+/* ------------------- */
+
+.dark-purple{color:#262431}
+.bg-dark-purple{background-color: #262431}
+.light-purple{color:#2f2c3d}
+.bg-light-purple{background-color: #2f2c3d}
+.main-green{color: #95c11f}
+
+
+/* ------------------- */
+/* ----- Sliders ------*/
+/* ------------------- */
 .swiper-container {
     width: 600px;
     height: 300px;
@@ -24,4 +39,23 @@
 
 .slider-partenaires{
     overflow: hidden;
+}
+
+/* ------------------- */
+/*-- Colonnes Atouts --*/
+/* ------------------- */
+
+.atouts{
+    text-align: center;
+    padding: 10px;
+}
+.atouts i{
+    background: #2f2c3d;
+    border-radius: 50%;
+    padding: 15px;
+    color: white;
+}
+
+.atouts .text-container h2{
+    font-family: 'Raleway', sans-serif;
 }
