@@ -150,9 +150,61 @@
 /* ------------------- */
 /*--- Arbre à bulles --*/
 /* ------------------- */
-.bubble{
-    background-size: cover;
-    height: 100px;
-    width: 100px;
-    color: white;
+.tree-container{
+    padding-top: 115px;
+    position: relative;
+    text-align: center;
+}
+.info1, .info2, .info3, .info4, .info5{
+    position: absolute;;
+}
+
+.info1, .info2{
+    text-align: right;
+}
+
+.info3{
+    text-align: center;
+}
+
+.info4, .info5{
+    text-align: left;
+}
+
+
+.info1{
+    left: -60px;
+    bottom: 220px;
+}
+.info2{
+    bottom: 450px;
+    left: -140px;
+}
+.info3{
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    bottom: 760px;
+    text-align: center;
+}
+.info4{
+    bottom: 510px;
+    right: -135px;
+}
+.info5{
+    bottom: 250px;
+    right: -130px;
+}
+
+@media (min-width: 768px) {
+    .first-container {
+        padding-top: 9rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .first-container {
+        padding-top: 8rem;
+    }
 }
