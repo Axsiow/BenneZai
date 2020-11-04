@@ -4,10 +4,6 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <!-- SEO Meta Tags -->
-    <meta name="description" content="Leno is a mobile app landing page template made with HTML and Bootstrap to help you present mobile apps to the online audience and convince visitors to download from the app stores">
-    <meta name="author" content="Inovatik">
-
     <!-- OG Meta Tags to improve the way the post looks when you share the page on LinkedIn, Facebook, Google+ -->
     <meta property="og:site_name" content="" /> <!-- website name -->
     <meta property="og:site" content="" /> <!-- website link -->
@@ -39,20 +35,22 @@
 	<sript src="ressources/js/modernizr.js"></sript>
 
 
+    
+
     <!-- Favicon  -->
     <link rel="icon" href="ressources/icons/favicon.png">
 </head>
 <body data-spy="scroll" data-target=".fixed-top">
     <!-- Header -->
-    <header class="cd-header">
-		<div id="cd-logo"><a href="#">Tout savoir</a></div>
+    <header id="commentCaMarche" class="cd-header">
+		<div id="cd-logo"><a href="#toutSavoir">Tout savoir</a></div>
 		<nav class="cd-primary-nav">
 	</header>
 	<!-- end of header -->
 
 	<section id="cd-intro">
 		<div id="cd-intro-tagline">
-			<a href="#" class="cd-btn">Maps</a>
+			<a href="#maps" class="cd-btn">Maps</a>
 			<img src="ressources/icons/Logo_blanc.png" class="logoBenneZai">
 		</div> <!-- #cd-intro-tagline -->
 	</section> <!-- #cd-intro -->
@@ -61,7 +59,7 @@
 		<nav>
 			<ul>
 				<li>
-					<a href="#cd-placeholder-1">
+					<a href="#commentCaMarche">
 						<img src="ressources/icons/Logo_Z_blanc.png" class="logoBenneZ">
 						<span></span><!-- icon -->
 					</a>
@@ -72,7 +70,7 @@
 
    
 
-<div class="container">
+<div id="decalage" class="container">
     <div class="row">
         <div class="col-lg-6">
             <div class="text-container">
@@ -97,7 +95,8 @@
         </div>
     </div>
 </div>
-<div class="bg-dark-purple">
+
+<div id="toutSavoir" class="bg-dark-purple">
     <div class="container">
         <div class="row">
             <div class="col-lg-4 atouts">
@@ -122,12 +121,12 @@
                 </div>
             </div>
         </div>
-    </div>
+	</div>
+	<a id="maps"></a>
 </div>
 
-<iframe width="100%" height="800px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/test-poubelles_517661?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/test-poubelles_517661">Voir en plein écran</a></p>
-
-<div style="background-color: #2c313d">
+<iframe width="100%" height="800px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/test-poubelles_517661?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a id ="pleinEcran" href="//umap.openstreetmap.fr/fr/map/test-poubelles_517661">Voir en plein écran</a></p>
+<div style="background-color:#2f2c3d">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
@@ -153,86 +152,6 @@
         </div>
     </div>
 </div>
-
-
-
-
-			<div class="col-lg-6">
-				<div class="text-container">
-					<h1>Comment <span style="color: #95c11f">ça marche ?</span></h1>
-					<p class="p-large">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores consectetur culpa earum eligendi eos fuga fugiat laborum magnam obcaecati vel! Cum doloremque, eaque illum laudantium magnam mollitia nesciunt officiis vitae?.</p>
-					<p class="p-large">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi aut ex molestias qui sapiente similique soluta veniam. A autem consectetur dolor, dolore error est, fugiat laudantium, quod ratione saepe voluptates.</p>
-					<p class="p-small">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad esse, nam possimus quasi quidem similique. Accusamus in inventore modi possimus quo similique soluta sunt tenetur unde veniam. Laborum, natus saepe!</p>
-				</div>
-			</div>
-			<div class="col-lg-6">
-				<div class="phone-container">
-					<img src="https://i.stack.imgur.com/vKQ2K.png)" class="phone" alt="Un beau téléphone.">
-					<div class="swiper-container">
-						<div class="swiper-wrapper">
-							<div class="swiper-slide"><img src="https://picsum.photos/280/501" alt=""></div>
-							<div class="swiper-slide"><img src="https://picsum.photos/280/500" alt=""></div>
-							<div class="swiper-slide"><img src="https://picsum.photos/280/502" alt=""></div>
-						</div>
-						<div class="swiper-pagination"></div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-6">
-				<div class="text-container">
-					<h1>Comment <span style="color: #95c11f">ça marche ?</span></h1>
-					<p class="p-large">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores consectetur culpa earum eligendi eos fuga fugiat laborum magnam obcaecati vel! Cum doloremque, eaque illum laudantium magnam mollitia nesciunt officiis vitae?.</p>
-					<p class="p-large">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi aut ex molestias qui sapiente similique soluta veniam. A autem consectetur dolor, dolore error est, fugiat laudantium, quod ratione saepe voluptates.</p>
-					<p class="p-small">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad esse, nam possimus quasi quidem similique. Accusamus in inventore modi possimus quo similique soluta sunt tenetur unde veniam. Laborum, natus saepe!</p>
-				</div>
-			</div>
-			<div class="col-lg-6">
-				<div class="phone-container">
-					<img src="https://i.stack.imgur.com/vKQ2K.png)" class="phone" alt="Un beau téléphone.">
-					<div class="swiper-container">
-						<div class="swiper-wrapper">
-							<div class="swiper-slide"><img src="https://picsum.photos/280/501" alt=""></div>
-							<div class="swiper-slide"><img src="https://picsum.photos/280/500" alt=""></div>
-							<div class="swiper-slide"><img src="https://picsum.photos/280/502" alt=""></div>
-						</div>
-						<div class="swiper-pagination"></div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-6">
-				<div class="text-container">
-					<h1>Comment <span style="color: #95c11f">ça marche ?</span></h1>
-					<p class="p-large">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores consectetur culpa earum eligendi eos fuga fugiat laborum magnam obcaecati vel! Cum doloremque, eaque illum laudantium magnam mollitia nesciunt officiis vitae?.</p>
-					<p class="p-large">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi aut ex molestias qui sapiente similique soluta veniam. A autem consectetur dolor, dolore error est, fugiat laudantium, quod ratione saepe voluptates.</p>
-					<p class="p-small">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad esse, nam possimus quasi quidem similique. Accusamus in inventore modi possimus quo similique soluta sunt tenetur unde veniam. Laborum, natus saepe!</p>
-				</div>
-			</div>
-			<div class="col-lg-6">
-				<div class="phone-container">
-					<img src="https://i.stack.imgur.com/vKQ2K.png)" class="phone" alt="Un beau téléphone.">
-					<div class="swiper-container">
-						<div class="swiper-wrapper">
-							<div class="swiper-slide"><img src="https://picsum.photos/280/501" alt=""></div>
-							<div class="swiper-slide"><img src="https://picsum.photos/280/500" alt=""></div>
-							<div class="swiper-slide"><img src="https://picsum.photos/280/502" alt=""></div>
-						</div>
-						<div class="swiper-pagination"></div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
      <!-- Footer -->
  <div class="footer bg-dark-blue">
 	<div class="container">
@@ -240,7 +159,7 @@
 			<div class="col-lg-12">
 				<div class="footer-col third">
 					<p class="p-small">Mail : <a href="mailto:contact@bennezai.fr"><strong>contact@bennezai.fr</strong></a></p>
-					<p class="p-small">Créé avec ❤️️ à Grenoble, France 🗻</p>
+					<p class="p-small">Créé avec ❤️️ à Grenoble, France 🗻</p></br></br>
 					<p class="p-small">Copyright © <a href="#">Benne Zaï</a></p>
 				</div> <!-- end of footer-col -->
 				<div class="footer-col first">
@@ -253,18 +172,6 @@
 	</div> <!-- end of container -->
 </div> <!-- end of footer -->  
 <!-- end of footer -->
-
-<!-- Copyright -->
-<div class="copyright bg-dark-blue">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <p class="p-small">Copyright © <a href="#">Benne Zaï</a></p>
-            </div> <!-- end of col -->
-        </div> <!-- enf of row -->
-    </div> <!-- end of container -->
-</div> <!-- end of copyright -->
-<!-- end of copyright -->
 
 
 <!-- Scripts -->

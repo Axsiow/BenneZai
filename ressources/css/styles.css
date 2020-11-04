@@ -1242,7 +1242,8 @@ input[type='checkbox'] {
 /*     Footer     */
 /******************/
 .footer {
-	padding-top: 5rem;
+	margin-top: 4rem;
+	padding-top: 2rem;
 	padding-bottom: 0.5rem;
 }
 
@@ -2373,11 +2374,6 @@ Primary style
 	  opacity: 1;
 	}
   
-  @media only screen and (min-width: 768px) {
-  #cd-btn {
-	display:inline-block;
-	}
-  }
   
   .cd-primary-nav {
 	/* mobile first - navigation hidden by default, triggered by tap/click on navigation icon */
@@ -2450,7 +2446,7 @@ Primary style
 	color: white;
   }
   .no-touch .cd-btn:hover {
-	background-color: #f5484a;
+	box-shadow: 10px 5px 5px red;
   }
 	.cd-btn.is-hidden {
 	  /* assign a position fixed and move outside the viewport (on the right) */
@@ -2620,6 +2616,7 @@ Primary style
 	margin-top: -30px;
 	width: 620px;
 	height: 283px;
+	z-index: 0;
   }
   @media only screen and (max-width: 1170px) {
 	.logoBenneZai {
@@ -2641,4 +2638,19 @@ Primary style
 	width: 40px;
 	height: 50px;
 	display: inline-block;
+  }
+
+  #toutSavoir {
+	padding-top: 3em;
+  }
+
+  #decalage {
+	  padding-top: 7em;
+  }
+  
+  #pleinEcran:hover {
+		text-decoration: none;
+		color: rgb(134, 134, 134);
+		text-shadow: rgba(77, 77, 77, 0.1);
+  
   }
