@@ -2246,7 +2246,7 @@ Primary style
 	font-size: 100%;
 	font-family: "Open Sans", sans-serif;
 	color: #030d18;
-	background-color: #f0eee1;
+	background-color: #2f2c3d;
   }
   
   a {
@@ -2326,7 +2326,7 @@ Primary style
 	width: 100%;
 	height: 40px;
 	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
-	background-color: #030d18;
+	background-color: #262431;
 	z-index: 3;
   }
   @media only screen and (min-width: 768px) {
@@ -2360,6 +2360,7 @@ Primary style
 	  opacity: 0;
 	  position: fixed;
 	  left: -20%;
+	  top: -7px;
 	  margin-left: 0;
 	  -webkit-transition: left 0.3s, opacity 0.3s;
 	  -moz-transition: left 0.3s, opacity 0.3s;
@@ -2395,7 +2396,7 @@ Primary style
   #cd-intro {
 	position: relative;
 	height: 200px;
-	background-color: #111111;
+	background-color: #262431;
 	background-size: cover;
 	z-index: 2;
   }
@@ -2410,14 +2411,14 @@ Primary style
 	font-size: 24px;
 	font-size: 1.5rem;
 	font-weight: 300;
-	color: #111111;
+	color: #262431;
 	text-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
   }
   
   @media only screen and (min-width: 768px) {
 	#cd-intro {
 	  height: 200px;
-	  background-color: #111111;
+	  background-color: #262431;
 	}
 	#cd-intro #cd-intro-tagline {
 	  padding-top: 160px;
@@ -2457,7 +2458,7 @@ Primary style
 	  opacity: 0;
 	  position: fixed;
 	  right: -20%;
-	  top: 0;
+	  top: -5px;
 	  padding: .8em 1.2em;
 	  margin: 14px 0 0;
 	  -webkit-transition: right 0.3s, opacity 0.3s;
@@ -2481,7 +2482,7 @@ Primary style
 	.cd-secondary-nav {
 	  z-index: 1;
 	  height: 100px;
-	  background-color: #111111;
+	  background-color: #262431;
 	  -webkit-transition: height 0.3s;
 	  -moz-transition: height 0.3s;
 	  transition: height 0.3s;

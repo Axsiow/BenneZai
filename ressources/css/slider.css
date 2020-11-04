@@ -16,6 +16,7 @@
 .swiper-container {
     width: 600px;
     height: 300px;
+    z-index: 0;
 }
 
 .swiper-container {
