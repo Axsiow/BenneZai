@@ -1249,7 +1249,12 @@ input[type='checkbox'] {
 
 .col-lg-12{
 	display: flex;
-	justify-content: space-around;
+	justify-content: space-between;
+}
+
+.f-text {
+	text-align: justify;
+	text-justify: inter-word;
 }
 
 .footer a {
@@ -2001,9 +2006,10 @@ a:hover.back-to-top {
 	
 	.footer .footer-col.third {
 		display: inline-block;
-		width: 15rem;
-		text-align: left;
-		vertical-align: top;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+		align-items: flex-start;
 	}
 
 	.footer .footer-col.third .fa-stack {
@@ -2213,7 +2219,7 @@ a:hover.back-to-top {
 	
 	.footer .footer-col.third {
 		width: 14rem;
-		text-align: right;
+		
 	}
 	/* end of footer */
 
