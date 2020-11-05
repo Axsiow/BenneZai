@@ -18,8 +18,6 @@ if (!isset($user)){
 }
 
 
-
-
 if (!isset($_POST['long']) or !isset($_POST['long'])){
     $categoryManager = new CategoryManager($db);
     $categoryList = $categoryManager->getAllCategory();
@@ -29,7 +27,7 @@ if (!isset($_POST['long']) or !isset($_POST['long'])){
         <input type="text" placeholder="Entrer la longitude" name="long" required>
         <input type="text" placeholder="Entrer la latitude" name="lat" required>
 
-        <label for="pet-select">Choisisez une catégorie</label>
+        <label for="category">Choisisez une catégorie</label>
 
         <select name="Category" id="Category">
             <?php
@@ -49,8 +47,30 @@ if (!isset($_POST['long']) or !isset($_POST['long'])){
 
     <?php
 }
-else{
-    echo "ngfeifbeiubfue";
+else
+{
+    $longitude = htmlspecialchars($_POST['long']);
+    $latitude = htmlspecialchars($_POST['lat']);
+    $category = htmlspecialchars($_POST['Category']);  # TODO : check category exist before using it.
+
+    if (!is_numeric($longitude) or !is_numeric($latitude))
+    {
+        # Error, redirect to the same page with an GET variable.
+        echo '<META HTTP-EQUIV="refresh" content="0;URL=./AddPoint.php?Error=NotANumber">';
+    }
+    elseif(!('-180' <= $longitude) or !($longitude <= '180') or !('-90' <= $latitude) or !($latitude <= '90') ){
+        echo '<META HTTP-EQUIV="refresh" content="0;URL=./AddPoint.php?Error=OutOfRange">';
+    }
+    else{
+        $geopointManager = new GeopointManager($db);
+        $geopoint = new Geopoint(array('longitude' => $longitude, 'latitude' => $latitude, 'category' => $category, 'username' => $_SESSION['username']));
+
+        $geopointManager->add($geopoint);
+        echo "Merci d'avoir aidé la communauté à maintenir les données à jour";
+
+
+
+    }
 }
 
 
