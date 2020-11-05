@@ -2364,8 +2364,8 @@ Primary style
 	transform: scale(0.8);
 	transition: 1s;
   }
+  
 
-}
 .tout :hover {
   text-decoration: none;
   background-color: #f5484a;
