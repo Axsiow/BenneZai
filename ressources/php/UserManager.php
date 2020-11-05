@@ -20,10 +20,10 @@ class UserManager
 
     public function add(User $perso)
     {
-        $query = $this->_db->prepare('INSERT INTO user(user, password, admin ) VALUES(:user,:password,:admin)');
-        $query->bindValue(':user', $perso->getUsername() ) ;
+        $query = $this->_db->prepare('INSERT INTO user(username, password, admin ) VALUES(:username,:password,:admin)');
+        $query->bindValue(':username', $perso->getUsername() ) ;
         $query->bindValue(':password', $perso->getPassword() ) ;
-        $query->bindValue(':admin', $perso->isAdmin()  ) ;
+        $query->bindValue(':admin', '0'  ) ;
         $query->execute();
 
     }
@@ -41,7 +41,7 @@ class UserManager
     public function exist($name)
     {
         if (is_numeric($name)) {
-            $query = $this->_db->prepare('select count(*) from user where id = :id');
+            $query = $this->_db->prepare('select count(*) from username where id = :id');
             $query->execute(array(':id' => $name));
             $result = $query->fetch();
 
@@ -50,8 +50,8 @@ class UserManager
 
 
         } else {
-            $query = $this->_db->prepare('select count(*) from user where user = :user');
-            $query->execute(array(':user' => $name));
+            $query = $this->_db->prepare('select count(*) from user where username = :username');
+            $query->execute(array(':username' => $name));
             $result = $query->fetch();
             return $result[0];
         }
@@ -61,14 +61,15 @@ class UserManager
     public function getAuthenticatedUser($name, $password)
     {
 
-        $query = $this->_db->prepare('select * from user where user = :name and password = :password');
-        $query->execute(array(':name' => $name, ':password' => $password));
+        $query = $this->_db->prepare('select * from user where username = :username and password = :password');
+        $query->execute(array(':username' => $name, ':password' => $password));
 
         $result = $query->fetch(PDO::FETCH_ASSOC);
 
         if ($result == false) {
             return false;
         } else {
+            Dumper($result);
             return new User($result);
 
         }

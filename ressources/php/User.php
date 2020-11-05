@@ -27,7 +27,7 @@ class User
             }
         }
         if (!isset($this->_admin) ){
-            $this->setAdmin(0);
+            $this->setAdmin(false);
         }
     }
 

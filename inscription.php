@@ -21,7 +21,10 @@ if (isset($_POST["username"]) and isset($_POST["password"])){
     }
     else{
         #perso do not exist, creating it.
-        $user = new User(array('username' => $_POST["username"], 'password' => $_POST["password"], 'admin' => 0 ));
+        $username = htmlspecialchars($_POST["username"]) ;
+        $password = htmlspecialchars($_POST["password"]) ;
+
+        $user = new User(array('username' => $username, 'password' => $password, 'admin' => 0 ));
         Dumper($user);
         Dumper($user->isAdmin() );
         $userManager->add($user);

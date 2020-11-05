@@ -1,4 +1,5 @@
 <?php
+session_start();
 
 include_once("ressources/php/dumper.php");
 require_once("ressources/php/bdd.php");
@@ -19,11 +20,16 @@ else{
     $username = htmlspecialchars($_POST["username"]) ;
     $password = htmlspecialchars($_POST["password"]) ;
     $user = $userManager->getAuthenticatedUser($username, $password);
+
     if (false == $user ){
         echo '<META HTTP-EQUIV="refresh" content="0;URL=./create-user.html?">';
     }
-    echo "you are now logged in, you can submit a new point.";
 
+    echo "you are now logged in, you can submit a new point. <br/>";
+    Dumper($user);
+    $_SESSION['username'] = $user->getUsername();
+    $_SESSION['admin'] = $user->isAdmin();
+    echo '<META HTTP-EQUIV="refresh" content="0;URL=./AddPoint.php?">';
 
 
 }
