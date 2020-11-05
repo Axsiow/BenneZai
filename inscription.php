@@ -11,23 +11,24 @@ spl_autoload_register(
 
 $userManager = new UserManager($db);
 
-echo "This form enable you to create an user, so you can submit new geopoint. <br/>";
+
 
 if (isset($_POST["username"]) and isset($_POST["password"])){
     echo "creating account.";
 
     if ( $userManager->exist($_POST["username"]) ){
         # perso exist, error.
+        echo '<META HTTP-EQUIV="refresh" content="0;URL=./create-user.html?error=usernameAleardyExist">';
     }
     else{
         #perso do not exist, creating it.
         $username = htmlspecialchars($_POST["username"]) ;
         $password = htmlspecialchars($_POST["password"]) ;
-
         $user = new User(array('username' => $username, 'password' => $password, 'admin' => 0 ));
-        Dumper($user);
-        Dumper($user->isAdmin() );
+
         $userManager->add($user);
+
+        echo '<META HTTP-EQUIV="refresh" content="0;URL=./create-user.html">';
 
 
 

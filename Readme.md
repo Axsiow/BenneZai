@@ -1,8 +1,11 @@
 
+Think about changing Password for jean administrator at the end of sql script.
 How to create bennezai database : 
 
 
 create database bennezai;
+
+
 use bennezai
 drop table user;
 drop table geopoint;
@@ -19,16 +22,32 @@ PRIMARY KEY (user_id)
 
 CREATE TABLE `category` (
     `id` INT unsigned NOT NULL AUTO_INCREMENT,
-    `name` VARCHAR(40) NOT NULL,
+    `name` VARCHAR(40) NOT NULL UNIQUE,
     PRIMARY KEY (`id`)
 ) ENGINE=InnoDB;
 
 CREATE TABLE `geopoint`
   (
      `id`          INT NOT NULL auto_increment,
-     `longitude`   DECIMAL NOT NULL,
-     `latitude`    DECIMAL NOT NULL,
-     `category_id` INT,
+     `longitude`   DECIMAL(10,4) NOT NULL,
+     `latitude`    DECIMAL(10,4) NOT NULL,
+     `username`    VARCHAR(40) NOT NULL,
+     `category_name` VARCHAR(40) NOT NULL,
      PRIMARY KEY (`id`),
-     FOREIGN KEY(category_id) REFERENCES category(id)
+     FOREIGN KEY(category_name) REFERENCES category(name),
+     FOREIGN KEY(username) REFERENCES username(username)
   );  
+  
+insert into username (username,password, admin) values ('jean', 'password', '1');
+insert into category (name) values ('Ampoule');
+insert into category (name) values ('Container');
+insert into category (name) values ('Decheterie');
+insert into category (name) values ('Piles');
+insert into category (name) values ('Verre');
+insert into category (name) values ('textile');
+
+
+
+
+
+

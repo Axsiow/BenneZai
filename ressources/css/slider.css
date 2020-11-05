@@ -2,10 +2,6 @@
     padding: 20px;
 }
 
-.swiper-container, .slider-partenaires{
-    z-index: 0;
-}
-
 @media (min-width: 1200px) {
     .first-container {
         padding-top: 11rem;
@@ -41,44 +37,6 @@
 .main-green{color: #95c11f}
 .bg-main-green{background-color: #95c11f}
 
-.visibleFix{
-    display: block!important;
-}
-
-/* ------------------- */
-/* ------- Font ------ */
-/* ------------------- */
-h1{
-    font-family: 'Raleway', sans-serif;
-}
-
-/* ------------------------ */
-/* -- Comment ça marche ? --*/
-/* ------------------------ */
-.number{
-    left: 0;
-    position: absolute;
-    text-align: center;
-    width: 100%;
-}
-
-.howItWorks{
-    padding-left:0;
-    color:white;
-    list-style-type: none
-}
-
-.howItWorks li{
-    padding: 5px;
-}
-
-.howItWorks li .fa-stack{
-    font-weight: bold;
-
-}
-.howItWorks li .fa-stack:hover .fa-stack-2x{
-    color: #95c11f!important;
-}
 
 /* ------------------- */
 /* ----- Sliders ------*/
@@ -86,6 +44,7 @@ h1{
 .swiper-container {
     width: 600px;
     height: 300px;
+    z-index: 0;
 }
 
 .swiper-container {
@@ -239,50 +198,6 @@ h1{
     right: -130px;
 }
 
-@media (max-width: 992px) {
-    .tree-container{
-        padding-top: 0;
-    }
-    .tree-container div{
-        display: block;
-        position: static;
-        top: 0;
-        bottom: 0;
-        right: 0;
-        left: 0;
-        text-align: left;
-        max-width: 80%;
-        margin-left: 0;
-        margin-right: 0;
-    }
-}
-
-@media (max-width: 1199px){
-    .info1 {
-        left: -40px;
-        bottom: 130px;
-    }
-
-    .info2 {
-        bottom: 330px;
-        left: -110px;
-    }
-
-    .info3{
-        bottom: 635px;
-    }
-
-    .info4{
-        bottom: 410px;
-        right: -105px;
-    }
-
-    .info5{
-        bottom: 200px;
-        right: -100px;
-    }
-}
-
 @media (min-width: 768px) {
     .first-container {
         padding-top: 9rem;
@@ -294,22 +209,3 @@ h1{
         padding-top: 8rem;
     }
 }
-/* ------------------- */
-/*------- Footer ------*/
-/* ------------------- */
-.fa-stack .fas.fa-circle.fa-stack-2x{
-    color: #3b384b;
-}
-.fa-stack a .fab{
-    color: #eeeeee;
-}
-
-.fa-stack:hover .fa-stack-2x{
-    color: #00c9db!important;
-}
-
-.fa-stack .fa-stack-2x {
-    transition: all 0.2s ease;
-}
-
-
