@@ -2532,7 +2532,7 @@ Primary style
 	  position: relative;
 	  text-align: center;
 	  display: block;
-	  padding: 58px 40px 0 40px;
+	  padding: 30px 40px 0 40px;
 	  border-bottom: none;
 	  -webkit-transition: padding 0.2s;
 	  -moz-transition: padding 0.2s;
@@ -2595,9 +2595,7 @@ Primary style
 	  /* so we defined to diffent classes: .is-fixed to change the position value and .is-animated to change childrens' attributes (padding and opacity)*/
 	  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
 	}
-	.cd-secondary-nav.animate-children li a {
-	  padding: 26px 30px 0 30px;
-	}
+
 	.cd-secondary-nav.animate-children li a span {
 	  opacity: 0;
 	}

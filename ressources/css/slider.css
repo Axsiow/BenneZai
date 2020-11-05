@@ -1,3 +1,30 @@
+.container{
+    padding: 20px;
+}
+
+@media (min-width: 1200px) {
+    .first-container {
+        padding-top: 11rem;
+    }
+}
+
+@media (min-width: 992px) {
+    .first-container {
+        padding-top: 10rem;
+    }
+}
+
+@media (min-width: 768px) {
+    .first-container {
+        padding-top: 9rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .first-container {
+        padding-top: 8rem;
+    }
+}
 
 /* ------------------- */
 /* ----- Colors ------ */
@@ -8,6 +35,7 @@
 .light-purple{color:#2f2c3d}
 .bg-light-purple{background-color: #2f2c3d}
 .main-green{color: #95c11f}
+.bg-main-green{background-color: #95c11f}
 
 
 /* ------------------- */
@@ -59,4 +87,125 @@
 
 .atouts .text-container h2{
     font-family: 'Raleway', sans-serif;
+}
+
+/* ------------------- */
+/*-- Comment trier ? --*/
+/* ------------------- */
+.howto div{
+    padding: 10px;
+}
+
+.pic{
+    background: #262431;
+    border-radius: 50%;
+    padding: 15px;
+    color: white;
+    height: 75px;
+    width: 75px;
+    text-align: center;
+    line-height: 48px!important;
+}
+
+.positif{
+    background-color: rgba(149,193,31,0.5)
+}
+.negatif{
+    background-color: rgba(193,66,66,0.5)
+}
+
+.positif:before{
+    content: "+";
+    color: #95c11f;
+}
+
+.negatif:before{
+    content: "–";
+    color: red;
+}
+
+.positif:before, .negatif:before{
+    font-weight: bold;
+    font-size: 30px;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+
+.pic-img-container{
+    width: 75px;
+    height: 75px;
+    background-color: #262431;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+}
+
+.pic-img{
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* ------------------- */
+/*--- Arbre à bulles --*/
+/* ------------------- */
+.tree-container{
+    padding-top: 115px;
+    position: relative;
+    text-align: center;
+}
+.info1, .info2, .info3, .info4, .info5{
+    position: absolute;;
+}
+
+.info1, .info2{
+    text-align: right;
+}
+
+.info3{
+    text-align: center;
+}
+
+.info4, .info5{
+    text-align: left;
+}
+
+
+.info1{
+    left: -60px;
+    bottom: 220px;
+}
+.info2{
+    bottom: 450px;
+    left: -140px;
+}
+.info3{
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    bottom: 760px;
+    text-align: center;
+}
+.info4{
+    bottom: 510px;
+    right: -135px;
+}
+.info5{
+    bottom: 250px;
+    right: -130px;
+}
+
+@media (min-width: 768px) {
+    .first-container {
+        padding-top: 9rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .first-container {
+        padding-top: 8rem;
+    }
 }
