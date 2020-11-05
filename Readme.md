@@ -26,9 +26,13 @@ CREATE TABLE `category` (
 CREATE TABLE `geopoint`
   (
      `id`          INT NOT NULL auto_increment,
-     `longitude`   DECIMAL NOT NULL,
-     `latitude`    DECIMAL NOT NULL,
+     `longitude`   DECIMAL(10,4) NOT NULL,
+     `latitude`    DECIMAL(10,4) NOT NULL,
+     `username`    VARCHAR(40) NOT NULL,
      `category_id` INT unsigned,
      PRIMARY KEY (`id`),
-     FOREIGN KEY(category_id) REFERENCES category(id)
+     FOREIGN KEY(category_id) REFERENCES category(id),
+     FOREIGN KEY(username) REFERENCES username(username)
   );  
+  
+insert into username (username,password, admin) values ('jean', 'password', '1');
