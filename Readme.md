@@ -9,7 +9,7 @@ drop table geopoint;
 drop table category;
 
 
-create table user (
+create table username (
 user_id SMALLINT UNSIGNED NOT NULL AUTO_INCREMENT, 
 username VARCHAR(40) NOT NULL UNIQUE, 
 password VARCHAR(40) NOT NULL, 
