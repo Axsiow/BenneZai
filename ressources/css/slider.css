@@ -43,6 +43,41 @@
 
 
 /* ------------------- */
+/* ------- Font ------ */
+/* ------------------- */
+h1{
+    font-family: 'Raleway', sans-serif;
+}
+
+/* ------------------------ */
+/* -- Comment ça marche ? --*/
+/* ------------------------ */
+.number{
+    left: 0;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+}
+
+.howItWorks{
+    padding-left:0;
+    color:white;
+    list-style-type: none
+}
+
+.howItWorks li{
+    padding: 5px;
+}
+
+.howItWorks li .fa-stack{
+    font-weight: bold;
+
+}
+.howItWorks li .fa-stack:hover .fa-stack-2x{
+    color: #95c11f!important;
+}
+
+/* ------------------- */
 /* ----- Sliders ------*/
 /* ------------------- */
 .swiper-container {
@@ -229,3 +264,5 @@
 .fa-stack .fa-stack-2x {
     transition: all 0.2s ease;
 }
+
+
