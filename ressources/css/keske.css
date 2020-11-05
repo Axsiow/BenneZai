@@ -914,8 +914,8 @@ Secondary Fixed Navigation
 .cd-secondary-nav.is-fixed {
     /* on Firefox CSS transition/animation fails when parent element changes position attribute*/
     /* so we defined to diffent classes: .is-fixed to change the position value and .is-animated to change childrens' attributes (padding and opacity)*/
-    position: fixed;
-    left: 0;
+    position: fixed!important;
+    left: 0!important;
     top: 0;
     height: 70px;
     width: 100%;
