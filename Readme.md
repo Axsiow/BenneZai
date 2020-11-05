@@ -1,4 +1,5 @@
 
+Think about changing Password for jean administrator at the end of sql script.
 How to create bennezai database : 
 
 

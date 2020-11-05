@@ -69,9 +69,7 @@ class UserManager
         if ($result == false) {
             return false;
         } else {
-            Dumper($result);
             return new User($result);
-
         }
 
 
