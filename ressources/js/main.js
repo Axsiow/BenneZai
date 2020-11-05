@@ -3,8 +3,13 @@ jQuery(document).ready(function($){
 		secondaryNavTopPosition = secondaryNav.offset().top,
 		taglineOffesetTop = $('#cd-intro-tagline').offset().top + $('#cd-intro-tagline').height() + parseInt($('#cd-intro-tagline').css('paddingTop').replace('px', '')),
 		contentSections = $('.cd-section');
+
+	console.log(secondaryNavTopPosition);
 	
 	$(window).on('scroll', function(){
+		console.log(window.scrollX);
+		console.log(window.scrollY);
+		console.log("----");
 		//on desktop - assign a position fixed to logo and action button and move them outside the viewport
 		( $(window).scrollTop() > taglineOffesetTop ) ? $('#cd-logo, .cd-btn').addClass('is-hidden') : $('#cd-logo, .cd-btn').removeClass('is-hidden');
 		

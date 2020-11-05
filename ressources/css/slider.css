@@ -41,6 +41,9 @@
 .main-green{color: #95c11f}
 .bg-main-green{background-color: #95c11f}
 
+.visibleFix{
+    display: block!important;
+}
 
 /* ------------------- */
 /* ------- Font ------ */
