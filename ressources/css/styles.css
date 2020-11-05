@@ -87,6 +87,10 @@ h6 {
 	font: 400 0.875rem/1.625rem "Open Sans", sans-serif;
 }
 
+.p-mail {
+	margin-bottom: 0px;
+}
+
 .testimonial-text {
 	font-style: italic;
 }
@@ -1333,6 +1337,8 @@ input[type='checkbox'] {
     color: #00c9db;
 }
 
+.benne-footer {
+}
 
 /*********************/
 /*     Copyright     */
