@@ -1,4 +1,3 @@
-console.log("allo main");
 jQuery(document).ready(function($){
 	var secondaryNav = $('.cd-secondary-nav'),
 		secondaryNavTopPosition = secondaryNav.offset().top,
