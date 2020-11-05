@@ -3,8 +3,8 @@
 
 class Category
 {
-    private int $_id;
-    private string $_name;
+    private $_id;
+    private $_name;
 
 
     public function __construct(array $data)

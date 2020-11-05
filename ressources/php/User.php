@@ -3,10 +3,10 @@
 
 class User
 {
-    private int $_id;
-    private string $_username;
-    private string $_password;
-    private bool $_admin;
+    private $_id;
+    private $_username;
+    private $_password;
+    private $_admin;
 
     public function __construct(array $data)
     {

@@ -3,10 +3,10 @@
 
 class Geopoint
 {
-    private float $_longitude;
-    private float $_latitude;
-    private string $_category;
-    private string $_username;
+    private $_longitude;
+    private $_latitude;
+    private $_category;
+    private $_username;
 
     public function __construct(array $data)
     {
