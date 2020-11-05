@@ -20,10 +20,10 @@ class UserManager
 
     public function add(User $perso)
     {
-        $query = $this->_db->prepare('INSERT INTO user(user, password) VALUES(:user,:password)');
+        $query = $this->_db->prepare('INSERT INTO user(user, password, admin ) VALUES(:user,:password,:admin)');
         $query->bindValue(':user', $perso->getUsername() ) ;
         $query->bindValue(':password', $perso->getPassword() ) ;
-
+        $query->bindValue(':admin', $perso->isAdmin()  ) ;
         $query->execute();
 
     }
@@ -58,6 +58,22 @@ class UserManager
 
     }
 
+    public function getAuthenticatedUser($name, $password)
+    {
 
+        $query = $this->_db->prepare('select * from user where user = :name and password = :password');
+        $query->execute(array(':name' => $name, ':password' => $password));
+
+        $result = $query->fetch(PDO::FETCH_ASSOC);
+
+        if ($result == false) {
+            return false;
+        } else {
+            return new User($result);
+
+        }
+
+
+    }
 
 }

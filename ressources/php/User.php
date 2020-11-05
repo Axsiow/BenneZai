@@ -26,6 +26,9 @@ class User
                 $this->$method($value);
             }
         }
+        if (!isset($this->_admin) ){
+            $this->setAdmin(0);
+        }
     }
 
     /**
