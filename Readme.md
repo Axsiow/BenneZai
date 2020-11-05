@@ -3,6 +3,11 @@ Think about changing Password for jean administrator at the end of sql script.
 How to create bennezai database : 
 
 
+CREATE USER 'bennezai'@'%' IDENTIFIED BY 'bennezai';
+GRANT ALL PRIVILEGES ON * . * TO 'bennezai'@'%';
+
+
+
 create database bennezai;
 
 
