@@ -1,3 +1,4 @@
+console.log("allo main");
 jQuery(document).ready(function($){
 	var secondaryNav = $('.cd-secondary-nav'),
 		secondaryNavTopPosition = secondaryNav.offset().top,
@@ -20,6 +21,7 @@ jQuery(document).ready(function($){
 	            secondaryNav.addClass('animate-children');
 	            $('#cd-logo').addClass('slide-in');
 				$('.cd-btn').addClass('slide-in');
+				$('#scrollTop').addClass('slide-in-top')
 	        }, 50);
 		} else {
 			secondaryNav.removeClass('is-fixed');
@@ -28,6 +30,7 @@ jQuery(document).ready(function($){
 	            secondaryNav.removeClass('animate-children');
 	            $('#cd-logo').removeClass('slide-in');
 				$('.cd-btn').removeClass('slide-in');
+				$('#scrollTop').removeClass('slide-in-top')
 	        }, 50);
 		}
 

@@ -2,6 +2,10 @@
     padding: 20px;
 }
 
+.swiper-container, .slider-partenaires{
+    z-index: 0;
+}
+
 @media (min-width: 1200px) {
     .first-container {
         padding-top: 11rem;
@@ -207,4 +211,21 @@
     .first-container {
         padding-top: 8rem;
     }
+}
+/* ------------------- */
+/*------- Footer ------*/
+/* ------------------- */
+.fa-stack .fas.fa-circle.fa-stack-2x{
+    color: #3b384b;
+}
+.fa-stack a .fab{
+    color: #eeeeee;
+}
+
+.fa-stack:hover .fa-stack-2x{
+    color: #00c9db!important;
+}
+
+.fa-stack .fa-stack-2x {
+    transition: all 0.2s ease;
 }
