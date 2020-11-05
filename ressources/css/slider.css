@@ -28,6 +28,10 @@
     .first-container {
         padding-top: 8rem;
     }
+
+    iframe{
+        height: 550px;
+    }
 }
 
 /* ------------------- */
@@ -135,6 +139,7 @@ h1{
 /* ------------------- */
 .howto div{
     padding: 10px;
+    color: white;
 }
 
 .pic{
@@ -251,7 +256,6 @@ h1{
         right: 0;
         left: 0;
         text-align: left;
-        max-width: 80%;
         margin-left: 0;
         margin-right: 0;
     }
