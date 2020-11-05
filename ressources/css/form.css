@@ -1,0 +1,81 @@
+/* Formulaires */
+
+.container-form {
+	min-height: 60%;
+}
+
+.row-form {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.form1 {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.form1 input{
+	margin-top: 25px
+}
+
+.form2 {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.form2 input{
+	margin-top: 25px
+}
+
+.onglet{
+    display:none;
+  
+  }
+
+/* Boutons */
+
+.btnmateriel {
+	background-color: #262431;
+	text-decoration: none;
+	border-radius: 10px;
+	color: white;
+	border: none;
+	padding: 15px;
+}
+
+.btnmateriel:hover {
+	background-color: #94c11f;
+	color: #262431;
+	transition: 0.4s;
+}
+
+.lesbuttons {
+	display: flex;
+	justify-content: space-around;
+	margin-bottom: 3vh;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.butsub {
+	background-color: #262431;
+	text-decoration: none;
+	border-radius: 10px;
+	color: white;
+	border: none;
+	padding: 15px;
+	min-width: 100%;
+}
+
+.butsub:hover {
+	background-color: #94c11f;
+	color: #262431;
+	transition: 0.4s;
+}
+
+.butverif {
+	font-family: 'Montserrat', sans-serif;
+}
