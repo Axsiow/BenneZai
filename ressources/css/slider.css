@@ -2,6 +2,10 @@
     padding: 20px;
 }
 
+.collectes .row{
+    margin-bottom: 30px;
+}
+
 .swiper-container, .slider-partenaires{
     z-index: 0;
 }
@@ -115,6 +119,17 @@ h1{
     overflow: hidden;
 }
 
+@media (max-width: 768px) {
+    .phone-container {
+        width: 260px;
+    }
+
+    .swiper-container {
+        top: 49px;
+        width: 196px;
+        left: 31px;
+    }
+}
 /* ------------------- */
 /*-- Colonnes Atouts --*/
 /* ------------------- */
