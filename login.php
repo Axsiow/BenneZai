@@ -101,7 +101,6 @@
                             }
                         </style>
                         <p>Vous êtes maintenant connecté, vous pouvez soumettre un nouveau point.</p><br/>";
-            Dumper($user);
             $_SESSION['username'] = $user->getUsername();
             $_SESSION['admin'] = $user->isAdmin();
             echo '<META HTTP-EQUIV="refresh" content="0;URL=./AddPoint.php?">';
