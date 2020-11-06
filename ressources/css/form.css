@@ -60,7 +60,7 @@
 	font-family: 'Montserrat', sans-serif;
 }
 
-.butsub {
+.butsub{
 	background-color: #262431;
 	text-decoration: none;
 	border-radius: 10px;
@@ -68,6 +68,24 @@
 	border: none;
 	padding: 15px;
 	min-width: 100%;
+}
+
+.butcat {
+	background-color: #262431;
+	text-decoration: none;
+	border-radius: 10px;
+	color: white;
+	border: none;
+	padding: 15px;
+	min-width: 100%;
+}
+
+.thadd {
+	font: 700 1rem/1.5rem "Montserrat", sans-serif;
+	color: white;
+	text-align: center;
+	margin-top: 4vh;
+	margin-bottom: 2vh;
 }
 
 .butsub:hover {
@@ -79,3 +97,5 @@
 .butverif {
 	font-family: 'Montserrat', sans-serif;
 }
+
+/* Login */
