@@ -1021,3 +1021,10 @@ Placeholder Sections
     opacity: 1!important;
 }
 
+#iciSondage {
+    font-weight: bold;
+}
+
+.iciSondage:hover {
+    font-weight: bold;
+}
