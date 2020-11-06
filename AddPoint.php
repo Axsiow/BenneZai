@@ -1,5 +1,7 @@
+<?php
+session_start();
 
-
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -63,7 +65,7 @@
 <!-- inscription / connexion -->
 <div class="container first-container container-form">
     <?php
-        session_start();
+
 
         include_once("ressources/php/dumper.php");
         require_once("ressources/php/bdd.php");
