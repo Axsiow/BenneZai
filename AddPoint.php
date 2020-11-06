@@ -133,7 +133,17 @@ session_start();
                 $geopoint = new Geopoint(array('longitude' => $longitude, 'latitude' => $latitude, 'category' => $category, 'username' => $_SESSION['username']));
 
                 $geopointManager->add($geopoint);
-                echo "Merci d'avoir aidé la communauté à maintenir les données à jour";
+                echo "<style>
+                            p { background-color: #262431;
+                                text-decoration: none;
+                                border-radius: 10px;
+                                color: white;
+                                border: none;
+                                padding: 15px;
+                                text-align: center;
+                                }
+                            </style>
+                             <p>Merci d'avoir aidé la communauté à maintenir les données à jour !</p>";
 
 
 
